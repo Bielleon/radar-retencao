@@ -1,0 +1,7 @@
+-- rr_parametros_custo: 5 linhas (parte 1/1), gerado pelo pipeline
+insert into public.rr_parametros_custo (chave, rotulo, valor, descricao, fonte) values
+('recrutamento_selecao', 'Recrutamento e seleção', 900.0, 'Divulgação da vaga, triagem, entrevistas e exames admissionais de uma nova contratação.', 'premissa ilustrativa do MVP'),
+('treinamento_integracao', 'Treinamento e integração', 1400.0, 'Horas de treinador, material da trilha de integração e tempo do líder na primeira semana.', 'premissa ilustrativa do MVP'),
+('encargos_rescisorios', 'Encargos e processo de desligamento', 1100.0, 'Verbas rescisórias proporcionais, exame demissional e processamento administrativo.', 'premissa ilustrativa do MVP'),
+('produtividade_perdida', 'Produtividade perdida na curva de aprendizado', 2200.0, 'Diferença de produtividade entre um novato e um colaborador experiente durante os primeiros meses.', 'premissa ilustrativa do MVP'),
+('vacancia_cobertura', 'Cobertura da vaga', 900.0, 'Horas extras da equipe e perda de vendas enquanto a posição fica desfalcada.', 'premissa ilustrativa do MVP');

@@ -1,0 +1,31 @@
+horizonte,fator,rotulo,importancia,direcao,posicao
+90d,turnover_loja_12m,Indicador de turnover da loja (proxy sintético),0.53384,aumenta,1
+90d,avaliacao_experiencia_30d,Avaliação de experiência (30 dias),0.44457,reduz,2
+90d,onboarding_concluido,Integração concluída até o dia 30,0.41716,reduz,3
+90d,distancia_casa_trabalho_km,Distância casa-trabalho,0.33125,aumenta,4
+90d,canal_contratacao,Canal de contratação,0.31733,misto,5
+90d,tipo_contrato,Tipo de contrato,0.30336,misto,6
+90d,faltas_30d,Faltas (30 dias),0.27379,aumenta,7
+90d,experiencia_previa_varejo,Experiência prévia em varejo,0.24663,reduz,8
+90d,cargo,Cargo,0.23956,misto,9
+90d,faixa_salarial,Faixa salarial,0.19755,misto,10
+90d,turno,Turno,0.16756,misto,11
+90d,horas_extras_media_semana,Horas extras médias por semana,0.16723,aumenta,12
+90d,avaliacao_experiencia_30d_ausente,Avaliação de experiência não realizada,0.1358,aumenta,13
+90d,mes_admissao,Mês de admissão,0.11952,misto,14
+90d,atrasos_30d,Atrasos (30 dias),0.11753,aumenta,15
+180d,turnover_loja_12m,Indicador de turnover da loja (proxy sintético),0.56621,aumenta,1
+180d,onboarding_concluido,Integração concluída até o dia 30,0.46525,reduz,2
+180d,avaliacao_experiencia_30d,Avaliação de experiência (30 dias),0.43838,reduz,3
+180d,cargo,Cargo,0.33,misto,4
+180d,canal_contratacao,Canal de contratação,0.31798,misto,5
+180d,distancia_casa_trabalho_km,Distância casa-trabalho,0.31097,aumenta,6
+180d,faltas_30d,Faltas (30 dias),0.30435,aumenta,7
+180d,experiencia_previa_varejo,Experiência prévia em varejo,0.24272,reduz,8
+180d,horas_extras_media_semana,Horas extras médias por semana,0.18976,aumenta,9
+180d,turno,Turno,0.18969,misto,10
+180d,faixa_salarial,Faixa salarial,0.18527,misto,11
+180d,tipo_contrato,Tipo de contrato,0.12399,misto,12
+180d,avaliacao_experiencia_30d_ausente,Avaliação de experiência não realizada,0.12016,aumenta,13
+180d,atrasos_30d,Atrasos (30 dias),0.10124,aumenta,14
+180d,tipo_loja,Tipo de loja,0.09773,misto,15

@@ -1,0 +1,9 @@
+horizonte,recorte,n,taxa_real,risco_medio_previsto,auc_roc
+90d,Geral,1757,0.1685,0.1593,0.8342
+90d,Admissões de pico,926,0.2214,0.1979,0.8191
+90d,Admissões fora do pico,831,0.1095,0.1162,0.8266
+90d,Temporários sazonais,529,0.2836,0.2421,0.8002
+180d,Geral,1757,0.2669,0.2502,0.8242
+180d,Admissões de pico,926,0.3186,0.2956,0.8099
+180d,Admissões fora do pico,831,0.2094,0.1997,0.8284
+180d,Temporários sazonais,529,0.3497,0.3299,0.8063

@@ -1,0 +1,1259 @@
+segmento_tipo,segmento_valor,dia,prob_permanencia,n_risco
+geral,geral,0,1.0,7259
+geral,geral,5,0.9862,7126
+geral,geral,10,0.9729,6965
+geral,geral,15,0.958,6813
+geral,geral,20,0.942,6643
+geral,geral,25,0.9263,6485
+geral,geral,30,0.9115,6337
+geral,geral,35,0.8953,6146
+geral,geral,40,0.8804,6003
+geral,geral,45,0.8661,5816
+geral,geral,50,0.8524,5656
+geral,geral,55,0.8398,5513
+geral,geral,60,0.8264,5372
+geral,geral,65,0.8148,5277
+geral,geral,70,0.805,5184
+geral,geral,75,0.7957,5104
+geral,geral,80,0.7865,5028
+geral,geral,85,0.7803,4972
+geral,geral,90,0.7713,4813
+geral,geral,95,0.7603,4599
+geral,geral,100,0.7531,4422
+geral,geral,105,0.7462,4257
+geral,geral,110,0.7369,4090
+geral,geral,115,0.731,3920
+geral,geral,120,0.7258,3769
+geral,geral,125,0.7192,3669
+geral,geral,130,0.7137,3626
+geral,geral,135,0.7077,3581
+geral,geral,140,0.7008,3529
+geral,geral,145,0.696,3493
+geral,geral,150,0.6908,3456
+geral,geral,155,0.6868,3421
+geral,geral,160,0.6832,3380
+geral,geral,165,0.6791,3340
+geral,geral,170,0.6752,3304
+geral,geral,175,0.6711,3267
+geral,geral,180,0.6668,3231
+geral,geral,185,0.6626,3194
+geral,geral,190,0.6595,3167
+geral,geral,195,0.6576,3142
+geral,geral,200,0.6543,3109
+geral,geral,205,0.6515,3085
+geral,geral,210,0.6483,3051
+geral,geral,215,0.6447,3022
+geral,geral,220,0.6424,2995
+geral,geral,225,0.6391,2972
+geral,geral,230,0.6359,2943
+geral,geral,235,0.6331,2913
+geral,geral,240,0.6298,2886
+geral,geral,245,0.6276,2859
+geral,geral,250,0.6252,2832
+geral,geral,255,0.6217,2807
+geral,geral,260,0.6183,2783
+geral,geral,265,0.6152,2752
+geral,geral,270,0.6116,2723
+geral,geral,275,0.6087,2694
+geral,geral,280,0.6069,2667
+geral,geral,285,0.6044,2647
+geral,geral,290,0.6018,2621
+geral,geral,295,0.5984,2594
+geral,geral,300,0.5958,2569
+geral,geral,305,0.594,2545
+geral,geral,310,0.5925,2527
+geral,geral,315,0.5914,2511
+geral,geral,320,0.59,2503
+geral,geral,325,0.5881,2483
+geral,geral,330,0.5866,2466
+geral,geral,335,0.5838,2449
+geral,geral,340,0.5821,2428
+geral,geral,345,0.5809,2413
+geral,geral,350,0.5787,2391
+geral,geral,355,0.5773,2371
+geral,geral,360,0.5756,2347
+geral,geral,365,0.5746,2324
+tipo_contrato,CLT Efetivo,0,1.0,3934
+tipo_contrato,CLT Efetivo,5,0.9918,3891
+tipo_contrato,CLT Efetivo,10,0.9839,3841
+tipo_contrato,CLT Efetivo,15,0.977,3788
+tipo_contrato,CLT Efetivo,20,0.9707,3749
+tipo_contrato,CLT Efetivo,25,0.9593,3685
+tipo_contrato,CLT Efetivo,30,0.9489,3631
+tipo_contrato,CLT Efetivo,35,0.937,3549
+tipo_contrato,CLT Efetivo,40,0.9301,3493
+tipo_contrato,CLT Efetivo,45,0.9196,3423
+tipo_contrato,CLT Efetivo,50,0.9104,3359
+tipo_contrato,CLT Efetivo,55,0.9019,3291
+tipo_contrato,CLT Efetivo,60,0.892,3236
+tipo_contrato,CLT Efetivo,65,0.884,3191
+tipo_contrato,CLT Efetivo,70,0.8759,3141
+tipo_contrato,CLT Efetivo,75,0.87,3100
+tipo_contrato,CLT Efetivo,80,0.8624,3063
+tipo_contrato,CLT Efetivo,85,0.8585,3039
+tipo_contrato,CLT Efetivo,90,0.8519,2977
+tipo_contrato,CLT Efetivo,95,0.8453,2921
+tipo_contrato,CLT Efetivo,100,0.8395,2886
+tipo_contrato,CLT Efetivo,105,0.8336,2855
+tipo_contrato,CLT Efetivo,110,0.8251,2814
+tipo_contrato,CLT Efetivo,115,0.8192,2772
+tipo_contrato,CLT Efetivo,120,0.8136,2733
+tipo_contrato,CLT Efetivo,125,0.8076,2701
+tipo_contrato,CLT Efetivo,130,0.8013,2668
+tipo_contrato,CLT Efetivo,135,0.7968,2643
+tipo_contrato,CLT Efetivo,140,0.791,2614
+tipo_contrato,CLT Efetivo,145,0.7871,2589
+tipo_contrato,CLT Efetivo,150,0.7825,2568
+tipo_contrato,CLT Efetivo,155,0.7788,2545
+tipo_contrato,CLT Efetivo,160,0.7755,2513
+tipo_contrato,CLT Efetivo,165,0.7702,2483
+tipo_contrato,CLT Efetivo,170,0.7671,2460
+tipo_contrato,CLT Efetivo,175,0.7627,2431
+tipo_contrato,CLT Efetivo,180,0.7589,2404
+tipo_contrato,CLT Efetivo,185,0.7561,2381
+tipo_contrato,CLT Efetivo,190,0.7522,2359
+tipo_contrato,CLT Efetivo,195,0.75,2336
+tipo_contrato,CLT Efetivo,200,0.7468,2312
+tipo_contrato,CLT Efetivo,205,0.7442,2293
+tipo_contrato,CLT Efetivo,210,0.7422,2274
+tipo_contrato,CLT Efetivo,215,0.7389,2251
+tipo_contrato,CLT Efetivo,220,0.7373,2234
+tipo_contrato,CLT Efetivo,225,0.7353,2223
+tipo_contrato,CLT Efetivo,230,0.732,2205
+tipo_contrato,CLT Efetivo,235,0.7283,2178
+tipo_contrato,CLT Efetivo,240,0.726,2157
+tipo_contrato,CLT Efetivo,245,0.7243,2139
+tipo_contrato,CLT Efetivo,250,0.7222,2123
+tipo_contrato,CLT Efetivo,255,0.7195,2108
+tipo_contrato,CLT Efetivo,260,0.7147,2090
+tipo_contrato,CLT Efetivo,265,0.7123,2071
+tipo_contrato,CLT Efetivo,270,0.7092,2049
+tipo_contrato,CLT Efetivo,275,0.7064,2032
+tipo_contrato,CLT Efetivo,280,0.705,2013
+tipo_contrato,CLT Efetivo,285,0.7012,1995
+tipo_contrato,CLT Efetivo,290,0.6987,1976
+tipo_contrato,CLT Efetivo,295,0.6948,1954
+tipo_contrato,CLT Efetivo,300,0.6941,1940
+tipo_contrato,CLT Efetivo,305,0.6919,1923
+tipo_contrato,CLT Efetivo,310,0.6905,1911
+tipo_contrato,CLT Efetivo,315,0.6897,1900
+tipo_contrato,CLT Efetivo,320,0.6887,1897
+tipo_contrato,CLT Efetivo,325,0.6868,1884
+tipo_contrato,CLT Efetivo,330,0.6857,1872
+tipo_contrato,CLT Efetivo,335,0.6839,1864
+tipo_contrato,CLT Efetivo,340,0.6828,1852
+tipo_contrato,CLT Efetivo,345,0.6817,1843
+tipo_contrato,CLT Efetivo,350,0.6795,1829
+tipo_contrato,CLT Efetivo,355,0.6776,1812
+tipo_contrato,CLT Efetivo,360,0.6765,1797
+tipo_contrato,CLT Efetivo,365,0.675,1780
+tipo_contrato,Intermitente,0,1.0,538
+tipo_contrato,Intermitente,5,0.9887,527
+tipo_contrato,Intermitente,10,0.9736,513
+tipo_contrato,Intermitente,15,0.9565,503
+tipo_contrato,Intermitente,20,0.9298,488
+tipo_contrato,Intermitente,25,0.9127,479
+tipo_contrato,Intermitente,30,0.8897,465
+tipo_contrato,Intermitente,35,0.8665,452
+tipo_contrato,Intermitente,40,0.8433,436
+tipo_contrato,Intermitente,45,0.8296,425
+tipo_contrato,Intermitente,50,0.8099,410
+tipo_contrato,Intermitente,55,0.7801,394
+tipo_contrato,Intermitente,60,0.764,379
+tipo_contrato,Intermitente,65,0.7459,370
+tipo_contrato,Intermitente,70,0.7317,360
+tipo_contrato,Intermitente,75,0.7195,356
+tipo_contrato,Intermitente,80,0.7073,351
+tipo_contrato,Intermitente,85,0.7011,344
+tipo_contrato,Intermitente,90,0.6991,340
+tipo_contrato,Intermitente,95,0.6824,329
+tipo_contrato,Intermitente,100,0.6699,320
+tipo_contrato,Intermitente,105,0.6615,317
+tipo_contrato,Intermitente,110,0.6426,308
+tipo_contrato,Intermitente,115,0.6384,304
+tipo_contrato,Intermitente,120,0.6341,302
+tipo_contrato,Intermitente,125,0.6278,298
+tipo_contrato,Intermitente,130,0.6236,295
+tipo_contrato,Intermitente,135,0.6193,291
+tipo_contrato,Intermitente,140,0.613,287
+tipo_contrato,Intermitente,145,0.6087,285
+tipo_contrato,Intermitente,150,0.6023,280
+tipo_contrato,Intermitente,155,0.6001,279
+tipo_contrato,Intermitente,160,0.6001,276
+tipo_contrato,Intermitente,165,0.5979,275
+tipo_contrato,Intermitente,170,0.5914,268
+tipo_contrato,Intermitente,175,0.5892,267
+tipo_contrato,Intermitente,180,0.5848,265
+tipo_contrato,Intermitente,185,0.5781,262
+tipo_contrato,Intermitente,190,0.5737,259
+tipo_contrato,Intermitente,195,0.5715,257
+tipo_contrato,Intermitente,200,0.5626,252
+tipo_contrato,Intermitente,205,0.5559,249
+tipo_contrato,Intermitente,210,0.5537,247
+tipo_contrato,Intermitente,215,0.5492,245
+tipo_contrato,Intermitente,220,0.5469,243
+tipo_contrato,Intermitente,225,0.5402,239
+tipo_contrato,Intermitente,230,0.5379,236
+tipo_contrato,Intermitente,235,0.5379,235
+tipo_contrato,Intermitente,240,0.5333,234
+tipo_contrato,Intermitente,245,0.531,230
+tipo_contrato,Intermitente,250,0.5241,226
+tipo_contrato,Intermitente,255,0.5194,223
+tipo_contrato,Intermitente,260,0.5194,222
+tipo_contrato,Intermitente,265,0.5171,220
+tipo_contrato,Intermitente,270,0.51,217
+tipo_contrato,Intermitente,275,0.51,214
+tipo_contrato,Intermitente,280,0.5052,209
+tipo_contrato,Intermitente,285,0.5052,209
+tipo_contrato,Intermitente,290,0.5052,207
+tipo_contrato,Intermitente,295,0.4978,203
+tipo_contrato,Intermitente,300,0.4953,201
+tipo_contrato,Intermitente,305,0.4953,200
+tipo_contrato,Intermitente,310,0.4928,198
+tipo_contrato,Intermitente,315,0.4928,196
+tipo_contrato,Intermitente,320,0.4928,195
+tipo_contrato,Intermitente,325,0.4928,193
+tipo_contrato,Intermitente,330,0.4877,191
+tipo_contrato,Intermitente,335,0.48,189
+tipo_contrato,Intermitente,340,0.4749,185
+tipo_contrato,Intermitente,345,0.4698,183
+tipo_contrato,Intermitente,350,0.4646,180
+tipo_contrato,Intermitente,355,0.4646,179
+tipo_contrato,Intermitente,360,0.462,176
+tipo_contrato,Intermitente,365,0.462,175
+tipo_contrato,Jovem Aprendiz,0,1.0,559
+tipo_contrato,Jovem Aprendiz,5,0.9893,554
+tipo_contrato,Jovem Aprendiz,10,0.9821,547
+tipo_contrato,Jovem Aprendiz,15,0.9677,539
+tipo_contrato,Jovem Aprendiz,20,0.9496,526
+tipo_contrato,Jovem Aprendiz,25,0.9315,514
+tipo_contrato,Jovem Aprendiz,30,0.9187,507
+tipo_contrato,Jovem Aprendiz,35,0.9096,495
+tipo_contrato,Jovem Aprendiz,40,0.8892,485
+tipo_contrato,Jovem Aprendiz,45,0.8743,468
+tipo_contrato,Jovem Aprendiz,50,0.861,455
+tipo_contrato,Jovem Aprendiz,55,0.8477,446
+tipo_contrato,Jovem Aprendiz,60,0.8305,434
+tipo_contrato,Jovem Aprendiz,65,0.8209,430
+tipo_contrato,Jovem Aprendiz,70,0.8074,422
+tipo_contrato,Jovem Aprendiz,75,0.7939,412
+tipo_contrato,Jovem Aprendiz,80,0.7803,400
+tipo_contrato,Jovem Aprendiz,85,0.7724,393
+tipo_contrato,Jovem Aprendiz,90,0.7646,386
+tipo_contrato,Jovem Aprendiz,95,0.7526,379
+tipo_contrato,Jovem Aprendiz,100,0.7385,368
+tipo_contrato,Jovem Aprendiz,105,0.7265,362
+tipo_contrato,Jovem Aprendiz,110,0.7204,358
+tipo_contrato,Jovem Aprendiz,115,0.7103,354
+tipo_contrato,Jovem Aprendiz,120,0.7062,348
+tipo_contrato,Jovem Aprendiz,125,0.6981,343
+tipo_contrato,Jovem Aprendiz,130,0.6981,341
+tipo_contrato,Jovem Aprendiz,135,0.6858,335
+tipo_contrato,Jovem Aprendiz,140,0.6754,325
+tipo_contrato,Jovem Aprendiz,145,0.6691,322
+tipo_contrato,Jovem Aprendiz,150,0.6586,315
+tipo_contrato,Jovem Aprendiz,155,0.6502,307
+tipo_contrato,Jovem Aprendiz,160,0.6438,303
+tipo_contrato,Jovem Aprendiz,165,0.6417,297
+tipo_contrato,Jovem Aprendiz,170,0.6351,293
+tipo_contrato,Jovem Aprendiz,175,0.633,291
+tipo_contrato,Jovem Aprendiz,180,0.6286,289
+tipo_contrato,Jovem Aprendiz,185,0.6221,285
+tipo_contrato,Jovem Aprendiz,190,0.6221,285
+tipo_contrato,Jovem Aprendiz,195,0.6221,285
+tipo_contrato,Jovem Aprendiz,200,0.6199,283
+tipo_contrato,Jovem Aprendiz,205,0.6199,283
+tipo_contrato,Jovem Aprendiz,210,0.6066,273
+tipo_contrato,Jovem Aprendiz,215,0.6,271
+tipo_contrato,Jovem Aprendiz,220,0.5933,264
+tipo_contrato,Jovem Aprendiz,225,0.5888,262
+tipo_contrato,Jovem Aprendiz,230,0.5865,259
+tipo_contrato,Jovem Aprendiz,235,0.5843,258
+tipo_contrato,Jovem Aprendiz,240,0.5797,256
+tipo_contrato,Jovem Aprendiz,245,0.5775,254
+tipo_contrato,Jovem Aprendiz,250,0.5775,249
+tipo_contrato,Jovem Aprendiz,255,0.5705,245
+tipo_contrato,Jovem Aprendiz,260,0.5705,242
+tipo_contrato,Jovem Aprendiz,265,0.5634,236
+tipo_contrato,Jovem Aprendiz,270,0.5538,232
+tipo_contrato,Jovem Aprendiz,275,0.5514,228
+tipo_contrato,Jovem Aprendiz,280,0.5465,225
+tipo_contrato,Jovem Aprendiz,285,0.5465,223
+tipo_contrato,Jovem Aprendiz,290,0.5465,222
+tipo_contrato,Jovem Aprendiz,295,0.5441,222
+tipo_contrato,Jovem Aprendiz,300,0.5366,215
+tipo_contrato,Jovem Aprendiz,305,0.5366,215
+tipo_contrato,Jovem Aprendiz,310,0.5366,214
+tipo_contrato,Jovem Aprendiz,315,0.5341,213
+tipo_contrato,Jovem Aprendiz,320,0.5291,211
+tipo_contrato,Jovem Aprendiz,325,0.5266,210
+tipo_contrato,Jovem Aprendiz,330,0.5266,209
+tipo_contrato,Jovem Aprendiz,335,0.5216,208
+tipo_contrato,Jovem Aprendiz,340,0.5216,207
+tipo_contrato,Jovem Aprendiz,345,0.5216,204
+tipo_contrato,Jovem Aprendiz,350,0.519,202
+tipo_contrato,Jovem Aprendiz,355,0.519,202
+tipo_contrato,Jovem Aprendiz,360,0.5164,198
+tipo_contrato,Jovem Aprendiz,365,0.5164,196
+tipo_contrato,Temporario Sazonal,0,1.0,2228
+tipo_contrato,Temporario Sazonal,5,0.9746,2154
+tipo_contrato,Temporario Sazonal,10,0.9508,2064
+tipo_contrato,Temporario Sazonal,15,0.9218,1983
+tipo_contrato,Temporario Sazonal,20,0.8911,1880
+tipo_contrato,Temporario Sazonal,25,0.8684,1807
+tipo_contrato,Temporario Sazonal,30,0.8469,1734
+tipo_contrato,Temporario Sazonal,35,0.8227,1650
+tipo_contrato,Temporario Sazonal,40,0.796,1589
+tipo_contrato,Temporario Sazonal,45,0.7746,1500
+tipo_contrato,Temporario Sazonal,50,0.7536,1432
+tipo_contrato,Temporario Sazonal,55,0.7376,1382
+tipo_contrato,Temporario Sazonal,60,0.7191,1323
+tipo_contrato,Temporario Sazonal,65,0.7016,1286
+tipo_contrato,Temporario Sazonal,70,0.6907,1261
+tipo_contrato,Temporario Sazonal,75,0.6764,1236
+tipo_contrato,Temporario Sazonal,80,0.666,1214
+tipo_contrato,Temporario Sazonal,85,0.6561,1196
+tipo_contrato,Temporario Sazonal,90,0.6399,1110
+tipo_contrato,Temporario Sazonal,95,0.6212,970
+tipo_contrato,Temporario Sazonal,100,0.6145,848
+tipo_contrato,Temporario Sazonal,105,0.6066,723
+tipo_contrato,Temporario Sazonal,110,0.5967,610
+tipo_contrato,Temporario Sazonal,115,0.5911,490
+tipo_contrato,Temporario Sazonal,120,0.5854,386
+tipo_contrato,Temporario Sazonal,125,0.5735,327
+tipo_contrato,Temporario Sazonal,130,0.5646,322
+tipo_contrato,Temporario Sazonal,135,0.5522,312
+tipo_contrato,Temporario Sazonal,140,0.538,303
+tipo_contrato,Temporario Sazonal,145,0.5274,297
+tipo_contrato,Temporario Sazonal,150,0.522,293
+tipo_contrato,Temporario Sazonal,155,0.5167,290
+tipo_contrato,Temporario Sazonal,160,0.5095,288
+tipo_contrato,Temporario Sazonal,165,0.5078,285
+tipo_contrato,Temporario Sazonal,170,0.5024,283
+tipo_contrato,Temporario Sazonal,175,0.4953,278
+tipo_contrato,Temporario Sazonal,180,0.4864,273
+tipo_contrato,Temporario Sazonal,185,0.4774,266
+tipo_contrato,Temporario Sazonal,190,0.4756,264
+tipo_contrato,Temporario Sazonal,195,0.4738,264
+tipo_contrato,Temporario Sazonal,200,0.472,262
+tipo_contrato,Temporario Sazonal,205,0.4684,260
+tipo_contrato,Temporario Sazonal,210,0.4648,257
+tipo_contrato,Temporario Sazonal,215,0.4612,255
+tipo_contrato,Temporario Sazonal,220,0.4576,254
+tipo_contrato,Temporario Sazonal,225,0.4503,248
+tipo_contrato,Temporario Sazonal,230,0.4448,243
+tipo_contrato,Temporario Sazonal,235,0.443,242
+tipo_contrato,Temporario Sazonal,240,0.4356,239
+tipo_contrato,Temporario Sazonal,245,0.4301,236
+tipo_contrato,Temporario Sazonal,250,0.4265,234
+tipo_contrato,Temporario Sazonal,255,0.421,231
+tipo_contrato,Temporario Sazonal,260,0.4192,229
+tipo_contrato,Temporario Sazonal,265,0.4137,225
+tipo_contrato,Temporario Sazonal,270,0.4137,225
+tipo_contrato,Temporario Sazonal,275,0.4063,220
+tipo_contrato,Temporario Sazonal,280,0.4063,220
+tipo_contrato,Temporario Sazonal,285,0.4063,220
+tipo_contrato,Temporario Sazonal,290,0.3989,216
+tipo_contrato,Temporario Sazonal,295,0.3989,215
+tipo_contrato,Temporario Sazonal,300,0.3896,213
+tipo_contrato,Temporario Sazonal,305,0.3859,207
+tipo_contrato,Temporario Sazonal,310,0.384,204
+tipo_contrato,Temporario Sazonal,315,0.3802,202
+tipo_contrato,Temporario Sazonal,320,0.3783,200
+tipo_contrato,Temporario Sazonal,325,0.3746,196
+tipo_contrato,Temporario Sazonal,330,0.3726,194
+tipo_contrato,Temporario Sazonal,335,0.3688,188
+tipo_contrato,Temporario Sazonal,340,0.3648,184
+tipo_contrato,Temporario Sazonal,345,0.3648,183
+tipo_contrato,Temporario Sazonal,350,0.3648,180
+tipo_contrato,Temporario Sazonal,355,0.3628,178
+tipo_contrato,Temporario Sazonal,360,0.3587,176
+tipo_contrato,Temporario Sazonal,365,0.3587,173
+cargo,Estoquista,0,1.0,1158
+cargo,Estoquista,5,0.9844,1138
+cargo,Estoquista,10,0.9661,1111
+cargo,Estoquista,15,0.9503,1075
+cargo,Estoquista,20,0.9369,1053
+cargo,Estoquista,25,0.9226,1029
+cargo,Estoquista,30,0.9046,1007
+cargo,Estoquista,35,0.8863,960
+cargo,Estoquista,40,0.8612,934
+cargo,Estoquista,45,0.8416,902
+cargo,Estoquista,50,0.8226,866
+cargo,Estoquista,55,0.8063,843
+cargo,Estoquista,60,0.7966,827
+cargo,Estoquista,65,0.7879,816
+cargo,Estoquista,70,0.7753,801
+cargo,Estoquista,75,0.7685,787
+cargo,Estoquista,80,0.7597,777
+cargo,Estoquista,85,0.7528,768
+cargo,Estoquista,90,0.742,742
+cargo,Estoquista,95,0.7245,705
+cargo,Estoquista,100,0.7151,671
+cargo,Estoquista,105,0.7064,640
+cargo,Estoquista,110,0.6896,606
+cargo,Estoquista,115,0.6813,573
+cargo,Estoquista,120,0.6789,550
+cargo,Estoquista,125,0.6702,536
+cargo,Estoquista,130,0.6627,529
+cargo,Estoquista,135,0.6526,521
+cargo,Estoquista,140,0.6425,510
+cargo,Estoquista,145,0.6337,500
+cargo,Estoquista,150,0.6273,495
+cargo,Estoquista,155,0.6247,490
+cargo,Estoquista,160,0.6235,486
+cargo,Estoquista,165,0.6196,479
+cargo,Estoquista,170,0.6183,475
+cargo,Estoquista,175,0.6144,471
+cargo,Estoquista,180,0.6091,465
+cargo,Estoquista,185,0.6039,458
+cargo,Estoquista,190,0.5999,454
+cargo,Estoquista,195,0.5986,453
+cargo,Estoquista,200,0.5946,447
+cargo,Estoquista,205,0.5919,444
+cargo,Estoquista,210,0.5906,438
+cargo,Estoquista,215,0.5906,435
+cargo,Estoquista,220,0.5878,430
+cargo,Estoquista,225,0.5851,425
+cargo,Estoquista,230,0.5823,422
+cargo,Estoquista,235,0.5796,420
+cargo,Estoquista,240,0.5754,414
+cargo,Estoquista,245,0.574,408
+cargo,Estoquista,250,0.5712,404
+cargo,Estoquista,255,0.5655,398
+cargo,Estoquista,260,0.5612,395
+cargo,Estoquista,265,0.5612,388
+cargo,Estoquista,270,0.554,382
+cargo,Estoquista,275,0.5481,374
+cargo,Estoquista,280,0.5452,368
+cargo,Estoquista,285,0.5422,364
+cargo,Estoquista,290,0.5422,360
+cargo,Estoquista,295,0.5422,358
+cargo,Estoquista,300,0.5361,353
+cargo,Estoquista,305,0.5361,350
+cargo,Estoquista,310,0.5346,347
+cargo,Estoquista,315,0.5314,342
+cargo,Estoquista,320,0.5299,339
+cargo,Estoquista,325,0.5283,336
+cargo,Estoquista,330,0.5267,333
+cargo,Estoquista,335,0.5204,329
+cargo,Estoquista,340,0.5188,326
+cargo,Estoquista,345,0.5172,322
+cargo,Estoquista,350,0.5156,319
+cargo,Estoquista,355,0.5124,316
+cargo,Estoquista,360,0.5124,314
+cargo,Estoquista,365,0.5124,308
+cargo,Gerente de Loja,0,1.0,259
+cargo,Gerente de Loja,5,1.0,259
+cargo,Gerente de Loja,10,1.0,257
+cargo,Gerente de Loja,15,0.9961,255
+cargo,Gerente de Loja,20,0.9961,254
+cargo,Gerente de Loja,25,0.9922,252
+cargo,Gerente de Loja,30,0.9922,250
+cargo,Gerente de Loja,35,0.9922,245
+cargo,Gerente de Loja,40,0.9922,244
+cargo,Gerente de Loja,45,0.9922,243
+cargo,Gerente de Loja,50,0.9922,240
+cargo,Gerente de Loja,55,0.988,238
+cargo,Gerente de Loja,60,0.9839,237
+cargo,Gerente de Loja,65,0.9839,236
+cargo,Gerente de Loja,70,0.9839,233
+cargo,Gerente de Loja,75,0.9839,232
+cargo,Gerente de Loja,80,0.9839,231
+cargo,Gerente de Loja,85,0.9839,231
+cargo,Gerente de Loja,90,0.9839,225
+cargo,Gerente de Loja,95,0.9839,222
+cargo,Gerente de Loja,100,0.9839,221
+cargo,Gerente de Loja,105,0.9839,219
+cargo,Gerente de Loja,110,0.9839,219
+cargo,Gerente de Loja,115,0.9839,217
+cargo,Gerente de Loja,120,0.9839,216
+cargo,Gerente de Loja,125,0.9839,215
+cargo,Gerente de Loja,130,0.9839,215
+cargo,Gerente de Loja,135,0.9839,215
+cargo,Gerente de Loja,140,0.9839,213
+cargo,Gerente de Loja,145,0.9839,213
+cargo,Gerente de Loja,150,0.9792,212
+cargo,Gerente de Loja,155,0.9792,209
+cargo,Gerente de Loja,160,0.9792,208
+cargo,Gerente de Loja,165,0.9792,208
+cargo,Gerente de Loja,170,0.9745,207
+cargo,Gerente de Loja,175,0.9745,205
+cargo,Gerente de Loja,180,0.9745,204
+cargo,Gerente de Loja,185,0.9745,203
+cargo,Gerente de Loja,190,0.9745,202
+cargo,Gerente de Loja,195,0.9696,200
+cargo,Gerente de Loja,200,0.9696,198
+cargo,Gerente de Loja,205,0.9696,198
+cargo,Gerente de Loja,210,0.9696,197
+cargo,Gerente de Loja,215,0.9647,194
+cargo,Gerente de Loja,220,0.9647,194
+cargo,Gerente de Loja,225,0.9647,193
+cargo,Gerente de Loja,230,0.9647,191
+cargo,Gerente de Loja,235,0.9647,191
+cargo,Gerente de Loja,240,0.9647,191
+cargo,Gerente de Loja,245,0.9647,189
+cargo,Gerente de Loja,250,0.9647,187
+cargo,Gerente de Loja,255,0.9647,185
+cargo,Gerente de Loja,260,0.9647,183
+cargo,Gerente de Loja,265,0.9594,182
+cargo,Gerente de Loja,270,0.9594,182
+cargo,Gerente de Loja,275,0.9594,182
+cargo,Gerente de Loja,280,0.9594,180
+cargo,Gerente de Loja,285,0.9594,179
+cargo,Gerente de Loja,290,0.9541,178
+cargo,Gerente de Loja,295,0.9487,177
+cargo,Gerente de Loja,300,0.9487,177
+cargo,Gerente de Loja,305,0.9487,177
+cargo,Gerente de Loja,310,0.9487,177
+cargo,Gerente de Loja,315,0.9487,176
+cargo,Gerente de Loja,320,0.9487,176
+cargo,Gerente de Loja,325,0.9487,175
+cargo,Gerente de Loja,330,0.9487,173
+cargo,Gerente de Loja,335,0.9487,173
+cargo,Gerente de Loja,340,0.9487,171
+cargo,Gerente de Loja,345,0.9487,169
+cargo,Gerente de Loja,350,0.9487,169
+cargo,Gerente de Loja,355,0.9487,169
+cargo,Gerente de Loja,360,0.9487,168
+cargo,Gerente de Loja,365,0.9487,168
+cargo,Lider de Loja,0,1.0,550
+cargo,Lider de Loja,5,1.0,545
+cargo,Lider de Loja,10,1.0,543
+cargo,Lider de Loja,15,0.9982,540
+cargo,Lider de Loja,20,0.9963,537
+cargo,Lider de Loja,25,0.9944,531
+cargo,Lider de Loja,30,0.9888,527
+cargo,Lider de Loja,35,0.9888,520
+cargo,Lider de Loja,40,0.9888,517
+cargo,Lider de Loja,45,0.9869,509
+cargo,Lider de Loja,50,0.9849,505
+cargo,Lider de Loja,55,0.983,500
+cargo,Lider de Loja,60,0.977,489
+cargo,Lider de Loja,65,0.969,485
+cargo,Lider de Loja,70,0.967,481
+cargo,Lider de Loja,75,0.963,477
+cargo,Lider de Loja,80,0.9609,473
+cargo,Lider de Loja,85,0.9609,472
+cargo,Lider de Loja,90,0.9487,460
+cargo,Lider de Loja,95,0.9445,456
+cargo,Lider de Loja,100,0.9445,455
+cargo,Lider de Loja,105,0.9425,453
+cargo,Lider de Loja,110,0.9403,448
+cargo,Lider de Loja,115,0.9361,444
+cargo,Lider de Loja,120,0.934,438
+cargo,Lider de Loja,125,0.9297,432
+cargo,Lider de Loja,130,0.9254,429
+cargo,Lider de Loja,135,0.9189,426
+cargo,Lider de Loja,140,0.9167,422
+cargo,Lider de Loja,145,0.9167,420
+cargo,Lider de Loja,150,0.9167,417
+cargo,Lider de Loja,155,0.9145,415
+cargo,Lider de Loja,160,0.9123,408
+cargo,Lider de Loja,165,0.91,407
+cargo,Lider de Loja,170,0.9056,404
+cargo,Lider de Loja,175,0.9011,401
+cargo,Lider de Loja,180,0.9011,396
+cargo,Lider de Loja,185,0.8965,392
+cargo,Lider de Loja,190,0.8965,390
+cargo,Lider de Loja,195,0.8942,386
+cargo,Lider de Loja,200,0.8942,385
+cargo,Lider de Loja,205,0.8895,382
+cargo,Lider de Loja,210,0.8872,380
+cargo,Lider de Loja,215,0.8872,377
+cargo,Lider de Loja,220,0.8849,373
+cargo,Lider de Loja,225,0.8849,371
+cargo,Lider de Loja,230,0.8801,369
+cargo,Lider de Loja,235,0.8777,364
+cargo,Lider de Loja,240,0.8777,362
+cargo,Lider de Loja,245,0.8777,361
+cargo,Lider de Loja,250,0.8777,360
+cargo,Lider de Loja,255,0.8777,360
+cargo,Lider de Loja,260,0.8752,359
+cargo,Lider de Loja,265,0.8728,356
+cargo,Lider de Loja,270,0.8704,355
+cargo,Lider de Loja,275,0.8704,351
+cargo,Lider de Loja,280,0.8679,349
+cargo,Lider de Loja,285,0.8629,344
+cargo,Lider de Loja,290,0.8579,340
+cargo,Lider de Loja,295,0.8553,336
+cargo,Lider de Loja,300,0.8553,335
+cargo,Lider de Loja,305,0.8553,333
+cargo,Lider de Loja,310,0.8528,330
+cargo,Lider de Loja,315,0.8528,330
+cargo,Lider de Loja,320,0.8528,330
+cargo,Lider de Loja,325,0.8502,327
+cargo,Lider de Loja,330,0.8502,327
+cargo,Lider de Loja,335,0.8476,326
+cargo,Lider de Loja,340,0.8476,325
+cargo,Lider de Loja,345,0.8476,324
+cargo,Lider de Loja,350,0.8476,323
+cargo,Lider de Loja,355,0.8476,322
+cargo,Lider de Loja,360,0.8476,317
+cargo,Lider de Loja,365,0.8476,315
+cargo,Operador de Caixa,0,1.0,1423
+cargo,Operador de Caixa,5,0.9859,1397
+cargo,Operador de Caixa,10,0.9701,1356
+cargo,Operador de Caixa,15,0.955,1328
+cargo,Operador de Caixa,20,0.9376,1292
+cargo,Operador de Caixa,25,0.9164,1255
+cargo,Operador de Caixa,30,0.8987,1218
+cargo,Operador de Caixa,35,0.8778,1182
+cargo,Operador de Caixa,40,0.8628,1143
+cargo,Operador de Caixa,45,0.846,1103
+cargo,Operador de Caixa,50,0.8282,1069
+cargo,Operador de Caixa,55,0.8172,1047
+cargo,Operador de Caixa,60,0.7998,1010
+cargo,Operador de Caixa,65,0.7823,987
+cargo,Operador de Caixa,70,0.7719,963
+cargo,Operador de Caixa,75,0.7615,950
+cargo,Operador de Caixa,80,0.7526,932
+cargo,Operador de Caixa,85,0.7437,917
+cargo,Operador de Caixa,90,0.7355,888
+cargo,Operador de Caixa,95,0.7236,844
+cargo,Operador de Caixa,100,0.7167,815
+cargo,Operador de Caixa,105,0.7104,782
+cargo,Operador de Caixa,110,0.7002,747
+cargo,Operador de Caixa,115,0.6974,722
+cargo,Operador de Caixa,120,0.6904,693
+cargo,Operador de Caixa,125,0.6843,670
+cargo,Operador de Caixa,130,0.6802,660
+cargo,Operador de Caixa,135,0.675,651
+cargo,Operador de Caixa,140,0.6646,638
+cargo,Operador de Caixa,145,0.6573,628
+cargo,Operador de Caixa,150,0.6541,622
+cargo,Operador de Caixa,155,0.6509,615
+cargo,Operador de Caixa,160,0.6456,607
+cargo,Operador de Caixa,165,0.6413,598
+cargo,Operador de Caixa,170,0.637,591
+cargo,Operador de Caixa,175,0.6338,581
+cargo,Operador de Caixa,180,0.6316,576
+cargo,Operador de Caixa,185,0.625,569
+cargo,Operador de Caixa,190,0.6195,558
+cargo,Operador de Caixa,195,0.6172,554
+cargo,Operador de Caixa,200,0.6139,548
+cargo,Operador de Caixa,205,0.6105,543
+cargo,Operador de Caixa,210,0.6094,538
+cargo,Operador de Caixa,215,0.6071,533
+cargo,Operador de Caixa,220,0.6048,529
+cargo,Operador de Caixa,225,0.6002,525
+cargo,Operador de Caixa,230,0.5968,518
+cargo,Operador de Caixa,235,0.5933,514
+cargo,Operador de Caixa,240,0.591,507
+cargo,Operador de Caixa,245,0.5887,506
+cargo,Operador de Caixa,250,0.5852,502
+cargo,Operador de Caixa,255,0.5828,498
+cargo,Operador de Caixa,260,0.5793,494
+cargo,Operador de Caixa,265,0.5769,487
+cargo,Operador de Caixa,270,0.5746,479
+cargo,Operador de Caixa,275,0.5697,473
+cargo,Operador de Caixa,280,0.5673,469
+cargo,Operador de Caixa,285,0.5673,466
+cargo,Operador de Caixa,290,0.5637,459
+cargo,Operador de Caixa,295,0.56,454
+cargo,Operador de Caixa,300,0.5587,451
+cargo,Operador de Caixa,305,0.5538,444
+cargo,Operador de Caixa,310,0.5525,443
+cargo,Operador de Caixa,315,0.5525,442
+cargo,Operador de Caixa,320,0.5525,442
+cargo,Operador de Caixa,325,0.55,439
+cargo,Operador de Caixa,330,0.5488,437
+cargo,Operador de Caixa,335,0.5462,434
+cargo,Operador de Caixa,340,0.545,431
+cargo,Operador de Caixa,345,0.5412,427
+cargo,Operador de Caixa,350,0.5399,423
+cargo,Operador de Caixa,355,0.5373,419
+cargo,Operador de Caixa,360,0.536,414
+cargo,Operador de Caixa,365,0.5334,409
+cargo,Vendedor,0,1.0,3869
+cargo,Vendedor,5,0.9839,3787
+cargo,Vendedor,10,0.9703,3698
+cargo,Vendedor,15,0.9531,3615
+cargo,Vendedor,20,0.9337,3507
+cargo,Vendedor,25,0.9168,3418
+cargo,Vendedor,30,0.9016,3335
+cargo,Vendedor,35,0.8845,3239
+cargo,Vendedor,40,0.8694,3165
+cargo,Vendedor,45,0.8549,3059
+cargo,Vendedor,50,0.8416,2976
+cargo,Vendedor,55,0.8273,2885
+cargo,Vendedor,60,0.8126,2809
+cargo,Vendedor,65,0.8009,2753
+cargo,Vendedor,70,0.7904,2706
+cargo,Vendedor,75,0.7793,2658
+cargo,Vendedor,80,0.7681,2615
+cargo,Vendedor,85,0.7619,2584
+cargo,Vendedor,90,0.753,2498
+cargo,Vendedor,95,0.7424,2372
+cargo,Vendedor,100,0.7342,2260
+cargo,Vendedor,105,0.7262,2163
+cargo,Vendedor,110,0.7176,2070
+cargo,Vendedor,115,0.7105,1964
+cargo,Vendedor,120,0.7041,1872
+cargo,Vendedor,125,0.6969,1816
+cargo,Vendedor,130,0.6907,1793
+cargo,Vendedor,135,0.6853,1768
+cargo,Vendedor,140,0.679,1746
+cargo,Vendedor,145,0.6751,1732
+cargo,Vendedor,150,0.6685,1710
+cargo,Vendedor,155,0.663,1692
+cargo,Vendedor,160,0.6587,1671
+cargo,Vendedor,165,0.6539,1648
+cargo,Vendedor,170,0.6495,1627
+cargo,Vendedor,175,0.6447,1609
+cargo,Vendedor,180,0.6387,1590
+cargo,Vendedor,185,0.6355,1572
+cargo,Vendedor,190,0.6326,1563
+cargo,Vendedor,195,0.631,1549
+cargo,Vendedor,200,0.6269,1531
+cargo,Vendedor,205,0.6245,1518
+cargo,Vendedor,210,0.6195,1498
+cargo,Vendedor,215,0.6137,1483
+cargo,Vendedor,220,0.6112,1469
+cargo,Vendedor,225,0.6075,1458
+cargo,Vendedor,230,0.6041,1443
+cargo,Vendedor,235,0.6012,1424
+cargo,Vendedor,240,0.5969,1412
+cargo,Vendedor,245,0.594,1395
+cargo,Vendedor,250,0.5914,1379
+cargo,Vendedor,255,0.5871,1366
+cargo,Vendedor,260,0.5837,1352
+cargo,Vendedor,265,0.5793,1339
+cargo,Vendedor,270,0.5759,1325
+cargo,Vendedor,275,0.5737,1314
+cargo,Vendedor,280,0.5724,1301
+cargo,Vendedor,285,0.5693,1294
+cargo,Vendedor,290,0.5671,1284
+cargo,Vendedor,295,0.5626,1269
+cargo,Vendedor,300,0.5599,1253
+cargo,Vendedor,305,0.5581,1241
+cargo,Vendedor,310,0.5568,1230
+cargo,Vendedor,315,0.5554,1221
+cargo,Vendedor,320,0.5531,1216
+cargo,Vendedor,325,0.5513,1206
+cargo,Vendedor,330,0.5495,1196
+cargo,Vendedor,335,0.5472,1187
+cargo,Vendedor,340,0.5449,1175
+cargo,Vendedor,345,0.5444,1171
+cargo,Vendedor,350,0.5411,1157
+cargo,Vendedor,355,0.5402,1145
+cargo,Vendedor,360,0.5373,1134
+cargo,Vendedor,365,0.5364,1124
+regiao,Centro-Oeste,0,1.0,737
+regiao,Centro-Oeste,5,0.9905,730
+regiao,Centro-Oeste,10,0.985,719
+regiao,Centro-Oeste,15,0.9712,700
+regiao,Centro-Oeste,20,0.9559,682
+regiao,Centro-Oeste,25,0.9418,666
+regiao,Centro-Oeste,30,0.929,654
+regiao,Centro-Oeste,35,0.9104,634
+regiao,Centro-Oeste,40,0.8885,611
+regiao,Centro-Oeste,45,0.8767,592
+regiao,Centro-Oeste,50,0.8586,570
+regiao,Centro-Oeste,55,0.8418,549
+regiao,Centro-Oeste,60,0.8294,535
+regiao,Centro-Oeste,65,0.817,525
+regiao,Centro-Oeste,70,0.806,515
+regiao,Centro-Oeste,75,0.7966,508
+regiao,Centro-Oeste,80,0.7855,498
+regiao,Centro-Oeste,85,0.7776,493
+regiao,Centro-Oeste,90,0.7648,472
+regiao,Centro-Oeste,95,0.7583,463
+regiao,Centro-Oeste,100,0.7467,447
+regiao,Centro-Oeste,105,0.7398,428
+regiao,Centro-Oeste,110,0.7275,412
+regiao,Centro-Oeste,115,0.722,394
+regiao,Centro-Oeste,120,0.7106,375
+regiao,Centro-Oeste,125,0.7068,365
+regiao,Centro-Oeste,130,0.7029,362
+regiao,Centro-Oeste,135,0.699,358
+regiao,Centro-Oeste,140,0.6932,355
+regiao,Centro-Oeste,145,0.6892,352
+regiao,Centro-Oeste,150,0.6833,348
+regiao,Centro-Oeste,155,0.6794,344
+regiao,Centro-Oeste,160,0.6734,339
+regiao,Centro-Oeste,165,0.6694,335
+regiao,Centro-Oeste,170,0.6614,332
+regiao,Centro-Oeste,175,0.6554,324
+regiao,Centro-Oeste,180,0.6432,316
+regiao,Centro-Oeste,185,0.6371,312
+regiao,Centro-Oeste,190,0.633,309
+regiao,Centro-Oeste,195,0.6289,304
+regiao,Centro-Oeste,200,0.6268,303
+regiao,Centro-Oeste,205,0.6247,301
+regiao,Centro-Oeste,210,0.6184,294
+regiao,Centro-Oeste,215,0.6121,291
+regiao,Centro-Oeste,220,0.6121,289
+regiao,Centro-Oeste,225,0.61,287
+regiao,Centro-Oeste,230,0.6036,283
+regiao,Centro-Oeste,235,0.6014,280
+regiao,Centro-Oeste,240,0.5993,278
+regiao,Centro-Oeste,245,0.5971,276
+regiao,Centro-Oeste,250,0.5928,270
+regiao,Centro-Oeste,255,0.5884,267
+regiao,Centro-Oeste,260,0.5839,265
+regiao,Centro-Oeste,265,0.5817,263
+regiao,Centro-Oeste,270,0.5773,260
+regiao,Centro-Oeste,275,0.5728,258
+regiao,Centro-Oeste,280,0.5684,254
+regiao,Centro-Oeste,285,0.5684,252
+regiao,Centro-Oeste,290,0.5661,251
+regiao,Centro-Oeste,295,0.5615,246
+regiao,Centro-Oeste,300,0.5592,244
+regiao,Centro-Oeste,305,0.5592,243
+regiao,Centro-Oeste,310,0.5569,240
+regiao,Centro-Oeste,315,0.5546,236
+regiao,Centro-Oeste,320,0.5522,235
+regiao,Centro-Oeste,325,0.5522,234
+regiao,Centro-Oeste,330,0.5498,230
+regiao,Centro-Oeste,335,0.545,229
+regiao,Centro-Oeste,340,0.545,226
+regiao,Centro-Oeste,345,0.545,225
+regiao,Centro-Oeste,350,0.5426,223
+regiao,Centro-Oeste,355,0.5426,222
+regiao,Centro-Oeste,360,0.5426,222
+regiao,Centro-Oeste,365,0.5426,220
+regiao,Nordeste,0,1.0,1488
+regiao,Nordeste,5,0.9892,1465
+regiao,Nordeste,10,0.9783,1438
+regiao,Nordeste,15,0.9694,1410
+regiao,Nordeste,20,0.9569,1376
+regiao,Nordeste,25,0.9429,1352
+regiao,Nordeste,30,0.9288,1319
+regiao,Nordeste,35,0.9075,1277
+regiao,Nordeste,40,0.8968,1253
+regiao,Nordeste,45,0.8867,1226
+regiao,Nordeste,50,0.8793,1201
+regiao,Nordeste,55,0.8698,1173
+regiao,Nordeste,60,0.86,1148
+regiao,Nordeste,65,0.8503,1130
+regiao,Nordeste,70,0.8412,1113
+regiao,Nordeste,75,0.8321,1101
+regiao,Nordeste,80,0.8283,1090
+regiao,Nordeste,85,0.8192,1077
+regiao,Nordeste,90,0.8138,1046
+regiao,Nordeste,95,0.8042,996
+regiao,Nordeste,100,0.7993,962
+regiao,Nordeste,105,0.7909,932
+regiao,Nordeste,110,0.7813,895
+regiao,Nordeste,115,0.7759,855
+regiao,Nordeste,120,0.7713,827
+regiao,Nordeste,125,0.7646,807
+regiao,Nordeste,130,0.7589,798
+regiao,Nordeste,135,0.7484,784
+regiao,Nordeste,140,0.7417,770
+regiao,Nordeste,145,0.7378,768
+regiao,Nordeste,150,0.7359,761
+regiao,Nordeste,155,0.731,752
+regiao,Nordeste,160,0.7281,742
+regiao,Nordeste,165,0.7251,735
+regiao,Nordeste,170,0.7231,729
+regiao,Nordeste,175,0.7211,725
+regiao,Nordeste,180,0.7191,716
+regiao,Nordeste,185,0.7161,711
+regiao,Nordeste,190,0.7111,701
+regiao,Nordeste,195,0.708,693
+regiao,Nordeste,200,0.7059,687
+regiao,Nordeste,205,0.7018,682
+regiao,Nordeste,210,0.6987,675
+regiao,Nordeste,215,0.6977,672
+regiao,Nordeste,220,0.6956,669
+regiao,Nordeste,225,0.6925,664
+regiao,Nordeste,230,0.6904,657
+regiao,Nordeste,235,0.6851,647
+regiao,Nordeste,240,0.683,642
+regiao,Nordeste,245,0.6787,634
+regiao,Nordeste,250,0.6755,628
+regiao,Nordeste,255,0.6711,623
+regiao,Nordeste,260,0.6668,618
+regiao,Nordeste,265,0.6646,614
+regiao,Nordeste,270,0.6625,609
+regiao,Nordeste,275,0.6614,604
+regiao,Nordeste,280,0.6592,598
+regiao,Nordeste,285,0.657,592
+regiao,Nordeste,290,0.6547,586
+regiao,Nordeste,295,0.6536,580
+regiao,Nordeste,300,0.6514,575
+regiao,Nordeste,305,0.6491,567
+regiao,Nordeste,310,0.6468,563
+regiao,Nordeste,315,0.6468,562
+regiao,Nordeste,320,0.6468,562
+regiao,Nordeste,325,0.6456,556
+regiao,Nordeste,330,0.6433,551
+regiao,Nordeste,335,0.6398,545
+regiao,Nordeste,340,0.6398,542
+regiao,Nordeste,345,0.6398,541
+regiao,Nordeste,350,0.6362,536
+regiao,Nordeste,355,0.635,534
+regiao,Nordeste,360,0.6338,523
+regiao,Nordeste,365,0.6338,518
+regiao,Norte,0,1.0,514
+regiao,Norte,5,0.9824,500
+regiao,Norte,10,0.9567,485
+regiao,Norte,15,0.9468,478
+regiao,Norte,20,0.9308,467
+regiao,Norte,25,0.9169,461
+regiao,Norte,30,0.9049,454
+regiao,Norte,35,0.8909,445
+regiao,Norte,40,0.8708,436
+regiao,Norte,45,0.8607,421
+regiao,Norte,50,0.8401,408
+regiao,Norte,55,0.8256,400
+regiao,Norte,60,0.813,389
+regiao,Norte,65,0.8004,382
+regiao,Norte,70,0.7898,371
+regiao,Norte,75,0.7792,365
+regiao,Norte,80,0.7727,360
+regiao,Norte,85,0.7684,354
+regiao,Norte,90,0.7662,347
+regiao,Norte,95,0.7617,338
+regiao,Norte,100,0.7594,326
+regiao,Norte,105,0.7571,314
+regiao,Norte,110,0.7446,298
+regiao,Norte,115,0.7369,281
+regiao,Norte,120,0.7316,271
+regiao,Norte,125,0.7151,262
+regiao,Norte,130,0.7069,256
+regiao,Norte,135,0.6958,251
+regiao,Norte,140,0.6902,247
+regiao,Norte,145,0.6789,240
+regiao,Norte,150,0.6676,234
+regiao,Norte,155,0.6562,231
+regiao,Norte,160,0.6533,227
+regiao,Norte,165,0.6503,221
+regiao,Norte,170,0.6444,218
+regiao,Norte,175,0.6444,217
+regiao,Norte,180,0.6355,213
+regiao,Norte,185,0.6295,210
+regiao,Norte,190,0.6265,208
+regiao,Norte,195,0.6265,207
+regiao,Norte,200,0.6235,205
+regiao,Norte,205,0.6204,203
+regiao,Norte,210,0.6204,201
+regiao,Norte,215,0.6112,198
+regiao,Norte,220,0.605,196
+regiao,Norte,225,0.6018,193
+regiao,Norte,230,0.5956,190
+regiao,Norte,235,0.5956,189
+regiao,Norte,240,0.5924,187
+regiao,Norte,245,0.5893,185
+regiao,Norte,250,0.5893,185
+regiao,Norte,255,0.5893,185
+regiao,Norte,260,0.5861,184
+regiao,Norte,265,0.5861,183
+regiao,Norte,270,0.5828,181
+regiao,Norte,275,0.5764,178
+regiao,Norte,280,0.5764,177
+regiao,Norte,285,0.5764,177
+regiao,Norte,290,0.5764,177
+regiao,Norte,295,0.5731,177
+regiao,Norte,300,0.5698,176
+regiao,Norte,305,0.5698,174
+regiao,Norte,310,0.5666,173
+regiao,Norte,315,0.5666,173
+regiao,Norte,320,0.5666,173
+regiao,Norte,325,0.5666,173
+regiao,Norte,330,0.5666,173
+regiao,Norte,335,0.5633,171
+regiao,Norte,340,0.56,168
+regiao,Norte,345,0.5566,166
+regiao,Norte,350,0.5566,164
+regiao,Norte,355,0.5566,162
+regiao,Norte,360,0.5566,161
+regiao,Norte,365,0.5566,161
+regiao,Sudeste,0,1.0,3558
+regiao,Sudeste,5,0.9856,3490
+regiao,Sudeste,10,0.9705,3397
+regiao,Sudeste,15,0.9529,3317
+regiao,Sudeste,20,0.9361,3232
+regiao,Sudeste,25,0.9207,3148
+regiao,Sudeste,30,0.9059,3072
+regiao,Sudeste,35,0.8922,2980
+regiao,Sudeste,40,0.8781,2917
+regiao,Sudeste,45,0.8613,2817
+regiao,Sudeste,50,0.8483,2740
+regiao,Sudeste,55,0.8364,2673
+regiao,Sudeste,60,0.8197,2598
+regiao,Sudeste,65,0.8083,2549
+regiao,Sudeste,70,0.7987,2508
+regiao,Sudeste,75,0.7895,2466
+regiao,Sudeste,80,0.7779,2421
+regiao,Sudeste,85,0.7734,2400
+regiao,Sudeste,90,0.7633,2324
+regiao,Sudeste,95,0.7512,2213
+regiao,Sudeste,100,0.7415,2117
+regiao,Sudeste,105,0.7344,2039
+regiao,Sudeste,110,0.7275,1964
+regiao,Sudeste,115,0.7241,1900
+regiao,Sudeste,120,0.719,1828
+regiao,Sudeste,125,0.7139,1783
+regiao,Sudeste,130,0.7086,1766
+regiao,Sudeste,135,0.7046,1748
+regiao,Sudeste,140,0.6965,1723
+regiao,Sudeste,145,0.6912,1703
+regiao,Sudeste,150,0.6851,1684
+regiao,Sudeste,155,0.6827,1672
+regiao,Sudeste,160,0.6794,1656
+regiao,Sudeste,165,0.6761,1641
+regiao,Sudeste,170,0.6724,1620
+regiao,Sudeste,175,0.667,1599
+regiao,Sudeste,180,0.6636,1586
+regiao,Sudeste,185,0.6607,1566
+regiao,Sudeste,190,0.6586,1558
+regiao,Sudeste,195,0.6569,1548
+regiao,Sudeste,200,0.653,1531
+regiao,Sudeste,205,0.6518,1522
+regiao,Sudeste,210,0.6483,1505
+regiao,Sudeste,215,0.6444,1488
+regiao,Sudeste,220,0.6418,1471
+regiao,Sudeste,225,0.6383,1459
+regiao,Sudeste,230,0.6357,1447
+regiao,Sudeste,235,0.6326,1432
+regiao,Sudeste,240,0.6286,1415
+regiao,Sudeste,245,0.6272,1402
+regiao,Sudeste,250,0.625,1392
+regiao,Sudeste,255,0.6209,1376
+regiao,Sudeste,260,0.6187,1364
+regiao,Sudeste,265,0.6155,1347
+regiao,Sudeste,270,0.6109,1330
+regiao,Sudeste,275,0.6091,1320
+regiao,Sudeste,280,0.6077,1309
+regiao,Sudeste,285,0.6049,1299
+regiao,Sudeste,290,0.6016,1283
+regiao,Sudeste,295,0.5964,1269
+regiao,Sudeste,300,0.5936,1253
+regiao,Sudeste,305,0.5922,1246
+regiao,Sudeste,310,0.5912,1236
+regiao,Sudeste,315,0.5893,1227
+regiao,Sudeste,320,0.5874,1221
+regiao,Sudeste,325,0.584,1208
+regiao,Sudeste,330,0.5825,1200
+regiao,Sudeste,335,0.5796,1192
+regiao,Sudeste,340,0.5767,1183
+regiao,Sudeste,345,0.5752,1177
+regiao,Sudeste,350,0.5728,1170
+regiao,Sudeste,355,0.5713,1159
+regiao,Sudeste,360,0.5693,1150
+regiao,Sudeste,365,0.5678,1138
+regiao,Sul,0,1.0,962
+regiao,Sul,5,0.9822,941
+regiao,Sul,10,0.9728,926
+regiao,Sul,15,0.9549,908
+regiao,Sul,20,0.9358,886
+regiao,Sul,25,0.9145,858
+regiao,Sul,30,0.8952,838
+regiao,Sul,35,0.8789,810
+regiao,Sul,40,0.8624,786
+regiao,Sul,45,0.8469,760
+regiao,Sul,50,0.8279,737
+regiao,Sul,55,0.8121,718
+regiao,Sul,60,0.8041,702
+regiao,Sul,65,0.7903,691
+regiao,Sul,70,0.7799,677
+regiao,Sul,75,0.7706,664
+regiao,Sul,80,0.7613,659
+regiao,Sul,85,0.7543,648
+regiao,Sul,90,0.7427,624
+regiao,Sul,95,0.7267,589
+regiao,Sul,100,0.7255,570
+regiao,Sul,105,0.719,544
+regiao,Sul,110,0.7056,521
+regiao,Sul,115,0.6903,490
+regiao,Sul,120,0.6888,468
+regiao,Sul,125,0.6798,452
+regiao,Sul,130,0.6737,444
+regiao,Sul,135,0.6692,440
+regiao,Sul,140,0.6646,434
+regiao,Sul,145,0.663,430
+regiao,Sul,150,0.66,429
+regiao,Sul,155,0.6553,422
+regiao,Sul,160,0.6506,416
+regiao,Sul,165,0.6412,408
+regiao,Sul,170,0.6381,405
+regiao,Sul,175,0.6349,402
+regiao,Sul,180,0.6317,400
+regiao,Sul,185,0.6238,395
+regiao,Sul,190,0.6207,391
+regiao,Sul,195,0.6207,390
+regiao,Sul,200,0.6159,383
+regiao,Sul,205,0.6094,377
+regiao,Sul,210,0.6078,376
+regiao,Sul,215,0.6062,373
+regiao,Sul,220,0.6046,370
+regiao,Sul,225,0.6013,369
+regiao,Sul,230,0.598,366
+regiao,Sul,235,0.598,365
+regiao,Sul,240,0.5948,364
+regiao,Sul,245,0.5931,362
+regiao,Sul,250,0.5915,357
+regiao,Sul,255,0.5898,356
+regiao,Sul,260,0.5848,352
+regiao,Sul,265,0.5781,345
+regiao,Sul,270,0.5764,343
+regiao,Sul,275,0.5696,334
+regiao,Sul,280,0.5679,329
+regiao,Sul,285,0.5627,327
+regiao,Sul,290,0.561,324
+regiao,Sul,295,0.561,322
+regiao,Sul,300,0.5593,321
+regiao,Sul,305,0.554,315
+regiao,Sul,310,0.554,315
+regiao,Sul,315,0.554,313
+regiao,Sul,320,0.5522,312
+regiao,Sul,325,0.5522,312
+regiao,Sul,330,0.5522,312
+regiao,Sul,335,0.5522,312
+regiao,Sul,340,0.5522,309
+regiao,Sul,345,0.5504,304
+regiao,Sul,350,0.5504,298
+regiao,Sul,355,0.5467,294
+regiao,Sul,360,0.543,291
+regiao,Sul,365,0.5411,287
+admitido_periodo_pico,Nao,0,1.0,3480
+admitido_periodo_pico,Nao,5,0.9928,3460
+admitido_periodo_pico,Nao,10,0.9848,3425
+admitido_periodo_pico,Nao,15,0.9787,3396
+admitido_periodo_pico,Nao,20,0.9692,3363
+admitido_periodo_pico,Nao,25,0.9594,3327
+admitido_periodo_pico,Nao,30,0.9478,3286
+admitido_periodo_pico,Nao,35,0.9371,3245
+admitido_periodo_pico,Nao,40,0.927,3210
+admitido_periodo_pico,Nao,45,0.9142,3159
+admitido_periodo_pico,Nao,50,0.9031,3106
+admitido_periodo_pico,Nao,55,0.8935,3066
+admitido_periodo_pico,Nao,60,0.883,3030
+admitido_periodo_pico,Nao,65,0.8739,2988
+admitido_periodo_pico,Nao,70,0.8648,2933
+admitido_periodo_pico,Nao,75,0.86,2894
+admitido_periodo_pico,Nao,80,0.8508,2849
+admitido_periodo_pico,Nao,85,0.8466,2822
+admitido_periodo_pico,Nao,90,0.8393,2746
+admitido_periodo_pico,Nao,95,0.831,2668
+admitido_periodo_pico,Nao,100,0.8231,2611
+admitido_periodo_pico,Nao,105,0.8162,2561
+admitido_periodo_pico,Nao,110,0.8084,2498
+admitido_periodo_pico,Nao,115,0.8012,2429
+admitido_periodo_pico,Nao,120,0.7969,2383
+admitido_periodo_pico,Nao,125,0.7921,2343
+admitido_periodo_pico,Nao,130,0.7867,2314
+admitido_periodo_pico,Nao,135,0.7812,2287
+admitido_periodo_pico,Nao,140,0.7744,2252
+admitido_periodo_pico,Nao,145,0.7709,2228
+admitido_periodo_pico,Nao,150,0.7657,2205
+admitido_periodo_pico,Nao,155,0.7612,2178
+admitido_periodo_pico,Nao,160,0.7587,2148
+admitido_periodo_pico,Nao,165,0.7555,2121
+admitido_periodo_pico,Nao,170,0.7508,2092
+admitido_periodo_pico,Nao,175,0.7472,2067
+admitido_periodo_pico,Nao,180,0.7425,2039
+admitido_periodo_pico,Nao,185,0.7403,2018
+admitido_periodo_pico,Nao,190,0.737,1999
+admitido_periodo_pico,Nao,195,0.7348,1978
+admitido_periodo_pico,Nao,200,0.7299,1949
+admitido_periodo_pico,Nao,205,0.7269,1930
+admitido_periodo_pico,Nao,210,0.7235,1904
+admitido_periodo_pico,Nao,215,0.7201,1884
+admitido_periodo_pico,Nao,220,0.7185,1863
+admitido_periodo_pico,Nao,225,0.7162,1852
+admitido_periodo_pico,Nao,230,0.7123,1829
+admitido_periodo_pico,Nao,235,0.71,1806
+admitido_periodo_pico,Nao,240,0.7076,1788
+admitido_periodo_pico,Nao,245,0.7064,1767
+admitido_periodo_pico,Nao,250,0.7036,1746
+admitido_periodo_pico,Nao,255,0.7004,1727
+admitido_periodo_pico,Nao,260,0.6967,1711
+admitido_periodo_pico,Nao,265,0.6938,1687
+admitido_periodo_pico,Nao,270,0.6897,1665
+admitido_periodo_pico,Nao,275,0.6859,1641
+admitido_periodo_pico,Nao,280,0.6847,1620
+admitido_periodo_pico,Nao,285,0.683,1606
+admitido_periodo_pico,Nao,290,0.6813,1590
+admitido_periodo_pico,Nao,295,0.6774,1568
+admitido_periodo_pico,Nao,300,0.6752,1548
+admitido_periodo_pico,Nao,305,0.6739,1532
+admitido_periodo_pico,Nao,310,0.673,1530
+admitido_periodo_pico,Nao,315,0.6721,1526
+admitido_periodo_pico,Nao,320,0.6704,1522
+admitido_periodo_pico,Nao,325,0.6682,1516
+admitido_periodo_pico,Nao,330,0.6668,1510
+admitido_periodo_pico,Nao,335,0.6646,1506
+admitido_periodo_pico,Nao,340,0.6633,1500
+admitido_periodo_pico,Nao,345,0.662,1494
+admitido_periodo_pico,Nao,350,0.6607,1488
+admitido_periodo_pico,Nao,355,0.6593,1484
+admitido_periodo_pico,Nao,360,0.6575,1479
+admitido_periodo_pico,Nao,365,0.6566,1476
+admitido_periodo_pico,Sim,0,1.0,3779
+admitido_periodo_pico,Sim,5,0.98,3666
+admitido_periodo_pico,Sim,10,0.9618,3540
+admitido_periodo_pico,Sim,15,0.9385,3417
+admitido_periodo_pico,Sim,20,0.9162,3280
+admitido_periodo_pico,Sim,25,0.8947,3158
+admitido_periodo_pico,Sim,30,0.8766,3051
+admitido_periodo_pico,Sim,35,0.855,2901
+admitido_periodo_pico,Sim,40,0.835,2793
+admitido_periodo_pico,Sim,45,0.8191,2657
+admitido_periodo_pico,Sim,50,0.8026,2550
+admitido_periodo_pico,Sim,55,0.7866,2447
+admitido_periodo_pico,Sim,60,0.7699,2342
+admitido_periodo_pico,Sim,65,0.7554,2289
+admitido_periodo_pico,Sim,70,0.7448,2251
+admitido_periodo_pico,Sim,75,0.7302,2210
+admitido_periodo_pico,Sim,80,0.7209,2179
+admitido_periodo_pico,Sim,85,0.7126,2150
+admitido_periodo_pico,Sim,90,0.7016,2067
+admitido_periodo_pico,Sim,95,0.6874,1931
+admitido_periodo_pico,Sim,100,0.6808,1811
+admitido_periodo_pico,Sim,105,0.6739,1696
+admitido_periodo_pico,Sim,110,0.6624,1592
+admitido_periodo_pico,Sim,115,0.6581,1491
+admitido_periodo_pico,Sim,120,0.6516,1386
+admitido_periodo_pico,Sim,125,0.6419,1326
+admitido_periodo_pico,Sim,130,0.6361,1312
+admitido_periodo_pico,Sim,135,0.6293,1294
+admitido_periodo_pico,Sim,140,0.622,1277
+admitido_periodo_pico,Sim,145,0.6151,1265
+admitido_periodo_pico,Sim,150,0.6098,1251
+admitido_periodo_pico,Sim,155,0.6063,1243
+admitido_periodo_pico,Sim,160,0.601,1232
+admitido_periodo_pico,Sim,165,0.5956,1219
+admitido_periodo_pico,Sim,170,0.5927,1212
+admitido_periodo_pico,Sim,175,0.5878,1200
+admitido_periodo_pico,Sim,180,0.5838,1192
+admitido_periodo_pico,Sim,185,0.577,1176
+admitido_periodo_pico,Sim,190,0.574,1168
+admitido_periodo_pico,Sim,195,0.5725,1164
+admitido_periodo_pico,Sim,200,0.5711,1160
+admitido_periodo_pico,Sim,205,0.5686,1155
+admitido_periodo_pico,Sim,210,0.5656,1147
+admitido_periodo_pico,Sim,215,0.5617,1138
+admitido_periodo_pico,Sim,220,0.5582,1132
+admitido_periodo_pico,Sim,225,0.5538,1120
+admitido_periodo_pico,Sim,230,0.5513,1114
+admitido_periodo_pico,Sim,235,0.5478,1107
+admitido_periodo_pico,Sim,240,0.5434,1098
+admitido_periodo_pico,Sim,245,0.5399,1092
+admitido_periodo_pico,Sim,250,0.5379,1086
+admitido_periodo_pico,Sim,255,0.534,1080
+admitido_periodo_pico,Sim,260,0.531,1072
+admitido_periodo_pico,Sim,265,0.5275,1065
+admitido_periodo_pico,Sim,270,0.5246,1058
+admitido_periodo_pico,Sim,275,0.5226,1053
+admitido_periodo_pico,Sim,280,0.5201,1047
+admitido_periodo_pico,Sim,285,0.5166,1041
+admitido_periodo_pico,Sim,290,0.5131,1031
+admitido_periodo_pico,Sim,295,0.5101,1026
+admitido_periodo_pico,Sim,300,0.5071,1021
+admitido_periodo_pico,Sim,305,0.5046,1013
+admitido_periodo_pico,Sim,310,0.5026,997
+admitido_periodo_pico,Sim,315,0.5011,985
+admitido_periodo_pico,Sim,320,0.5001,981
+admitido_periodo_pico,Sim,325,0.4986,967
+admitido_periodo_pico,Sim,330,0.497,956
+admitido_periodo_pico,Sim,335,0.4933,943
+admitido_periodo_pico,Sim,340,0.4912,928
+admitido_periodo_pico,Sim,345,0.4902,919
+admitido_periodo_pico,Sim,350,0.487,903
+admitido_periodo_pico,Sim,355,0.4853,887
+admitido_periodo_pico,Sim,360,0.4837,868
+admitido_periodo_pico,Sim,365,0.4825,848

@@ -1,0 +1,29 @@
+horizonte,grupo_tipo,grupo_valor,n,taxa_real,risco_medio_previsto,auc,taxa_alto_risco
+90d,faixa_etaria,18-24,2326,0.1879,0.1714,0.8132,0.1874
+90d,faixa_etaria,25-34,1825,0.1425,0.1492,0.817,0.1693
+90d,faixa_etaria,35-44,1019,0.1217,0.138,0.8732,0.1501
+90d,faixa_etaria,45-54,482,0.1452,0.1483,0.813,0.1722
+90d,faixa_etaria,55+,211,0.0806,0.1295,0.7953,0.1469
+90d,regiao,Sudeste,2838,0.1579,0.1583,0.8313,0.1734
+90d,regiao,Sul,781,0.1741,0.1732,0.8156,0.2049
+90d,regiao,Nordeste,1229,0.1253,0.1273,0.8276,0.1408
+90d,regiao,Norte,419,0.1575,0.157,0.8278,0.1599
+90d,regiao,Centro-Oeste,596,0.1745,0.1741,0.7936,0.2013
+90d,escolaridade,Fundamental,382,0.1283,0.1312,0.7933,0.1309
+90d,escolaridade,Medio,2843,0.1643,0.1651,0.8063,0.1942
+90d,escolaridade,Superior Incompleto,1979,0.1491,0.1488,0.8393,0.1501
+90d,escolaridade,Superior Completo,659,0.1472,0.1466,0.8768,0.1715
+180d,faixa_etaria,18-24,2196,0.3119,0.2878,0.8168,0.3889
+180d,faixa_etaria,25-34,1734,0.2347,0.2427,0.801,0.3155
+180d,faixa_etaria,35-44,951,0.1956,0.2285,0.8439,0.2934
+180d,faixa_etaria,45-54,455,0.244,0.2403,0.8119,0.3121
+180d,faixa_etaria,55+,196,0.1531,0.2104,0.7755,0.2347
+180d,regiao,Sudeste,2683,0.2538,0.254,0.8142,0.3336
+180d,regiao,Sul,738,0.2859,0.2853,0.8125,0.4024
+180d,regiao,Nordeste,1161,0.2171,0.217,0.8275,0.2601
+180d,regiao,Norte,393,0.285,0.286,0.815,0.3715
+180d,regiao,Centro-Oeste,557,0.2926,0.2952,0.8061,0.4093
+180d,escolaridade,Fundamental,362,0.2127,0.2154,0.8153,0.2514
+180d,escolaridade,Medio,2683,0.2657,0.2657,0.802,0.35
+180d,escolaridade,Superior Incompleto,1861,0.2606,0.2605,0.8203,0.3444
+180d,escolaridade,Superior Completo,626,0.23,0.2317,0.8658,0.3147

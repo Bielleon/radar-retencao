@@ -1,0 +1,27 @@
+{
+  "name": "radar-retencao-dashboard",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Dashboard web do Radar de Retencao (Enterprise Challenge Ri Happy x FIAP) - previsao de desligamento voluntario nos primeiros 90 e 180 dias",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc --noEmit && vite build",
+    "preview": "vite preview",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.49.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "recharts": "^2.15.3"
+  },
+  "devDependencies": {
+    "@types/node": "^22.15.0",
+    "@types/react": "^18.3.20",
+    "@types/react-dom": "^18.3.6",
+    "@vitejs/plugin-react": "^4.4.1",
+    "typescript": "^5.8.3",
+    "vite": "^6.3.5"
+  }
+}

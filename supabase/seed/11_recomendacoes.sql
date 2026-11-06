@@ -1,0 +1,17 @@
+-- rr_recomendacoes: 15 linhas (parte 1/1), gerado pelo pipeline
+insert into public.rr_recomendacoes (id, fator, rotulo_fator, nivel_minimo, acao, responsavel, prazo_dias) values
+(1, 'onboarding_concluido', 'Integração não concluída', 'Baixo', 'Concluir trilha de integração com acompanhamento do líder', 'Líder de loja', 7),
+(2, 'avaliacao_experiencia_30d', 'Avaliação de experiência ≤ 2,5', 'Baixo', 'Conversa de feedback estruturada (1:1) e plano de desenvolvimento de 30 dias', 'Líder + BP RH', 7),
+(3, 'distancia_casa_trabalho_km', 'Distância casa-trabalho ≥ 20 km', 'Baixo', 'Avaliar transferência para loja mais próxima, ajuste de escala e apoio de transporte', 'BP RH', 15),
+(4, 'faltas_30d', 'Faltas ≥ 2 ou atrasos ≥ 3', 'Baixo', 'Conversa de acolhimento para entender causas (saúde, transporte, estudos) e ajustar escala', 'Líder de loja', 5),
+(5, 'tipo_contrato', 'Contrato temporário sazonal', 'Baixo', 'Comunicar critérios de efetivação pós-campanha e trilha de carreira', 'BP RH', 10),
+(6, 'faixa_salarial', 'Faixa salarial até 1,5 SM', 'Baixo', 'Revisar variável/comissão e benefícios; reconhecimento não financeiro', 'Gente & Gestão', 30),
+(7, 'gestor_tempo_cargo_meses', 'Gestor com menos de 6 meses no cargo', 'Baixo', 'Mentoria para o líder recém-promovido com apoio do gerente regional', 'Gerente regional', 15),
+(8, 'turnover_loja_12m', 'Indicador de turnover da loja alto (≥ 45%)', 'Baixo', 'Diagnóstico de clima da loja e plano de ação', 'Gerente regional + RH', 30),
+(9, 'horas_extras_media_semana', 'Horas extras ≥ 6 h/semana', 'Baixo', 'Revisar escala e dimensionamento da equipe nos picos', 'Operações', 15),
+(10, 'turno', 'Turno da noite', 'Baixo', 'Avaliar preferência de turno e rodízio', 'Líder de loja', 15),
+(11, 'canal_contratacao', 'Contratação via agência', 'Baixo', 'Reforçar alinhamento de expectativas na seleção (prévia realista da função)', 'Recrutamento', 30),
+(12, 'nivel', 'Nível Crítico', 'Critico', 'Conversa de retenção líder + RH em 48h', 'Líder + BP RH', 2),
+(13, 'nivel', 'Nível Alto', 'Alto', 'Plano de retenção individual em 7 dias', 'Líder de loja', 7),
+(14, 'nivel', 'Nível Médio', 'Medio', 'Acompanhamento quinzenal na integração', 'Líder de loja', 15),
+(15, 'nivel', 'Nível Baixo', 'Baixo', 'Acompanhamento padrão de integração', 'Líder de loja', 30);

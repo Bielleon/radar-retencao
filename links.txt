@@ -1,0 +1,23 @@
+ENTERPRISE CHALLENGE RI HAPPY x FIAP
+Turma: 2TSCOR
+Projeto: Radar de Retencao - analise preditiva de turnover no varejo
+Equipe: Gabriel Alves Leon Rodriguez (trabalho individual)
+
+Integrantes (ordem alfabetica):
+Gabriel Alves Leon Rodriguez - RM566648
+
+LINKS
+Repositorio tecnico (codigo-fonte, notebooks, SQL, documentacao):
+  https://github.com/Bielleon/radar-retencao
+Dashboard (MVP) - acesso publico, sem login:
+  https://bielleon.github.io/radar-retencao/
+Video pitch (Sprint 2):
+  a produzir na Sprint 2
+
+OBSERVACOES
+- Todos os dados usados sao sinteticos, com identificadores ficticios; nenhum dado real da Ri Happy foi
+  utilizado nesta etapa.
+- O link publico do dashboard usa uma copia JSON dos resultados do pipeline (dashboard/public/demo). Ele nao
+  acessa banco de dados e nao publica credenciais; por isso o selo do site mostra "Fonte: copia JSON dos resultados".
+- O banco Supabase (tabelas rr_* e views rr_vw_*) e opcional e usado na execucao local, configurado por um
+  arquivo .env proprio, nunca versionado. Para executar localmente, ver a secao 4 do README.
